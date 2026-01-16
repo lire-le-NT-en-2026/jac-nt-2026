@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plan de lecture JAC NT 2026</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      padding: 20px;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      color: #2f6f5f;
+    }
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .section h2 {
+      color: #2f6f5f;
+      font-size: 1.2em;
+      margin-bottom: 8px;
+    }
+    .section a {
+      display: block;
+      margin-bottom: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Plan de lecture JAC NT 2026</h1>
+
+  <div class="section">
+    <h2>📖 Table principale</h2>
+    <a href="plan_table_avec_questions.html" target="_blank">Voir le plan de lecture (HTML)</a>
+    <a href="Plan_de_lecture_avec_questions_et_infos_vendredi.html" target="_blank">Plan avec infos vendredi (HTML)</a>
+  </div>
+
+  <div class="section">
+    <h2>📝 Méditations supplémentaires</h2>
+    <a href="meditations_supplementaires.html" target="_blank">Voir toutes les méditations</a>
+  </div>
+
+  <div class="section">
+    <h2>📄 COCA</h2>
+    <a href="documents/COCA.pdf" target="_blank">Visionner le fichier COCA</a>
+    <a href="documents/COCA.pdf" download>⬇️ Télécharger le fichier COCA</a>
+  </div>
+
+  <div class="section">
+    <p>Vous pouvez ouvrir ces fichiers sur mobile ou ordinateur. Les liens mènent aux fichiers HTML et PDF hébergés sur GitHub Pages.</p>
+  </div>
+
+</body>
+</html>
